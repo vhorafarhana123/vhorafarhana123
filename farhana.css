@@ -1,0 +1,47 @@
+.main{
+    background-color:rgb(234, 153, 46) ;
+    
+}
+.main .main1{
+
+  display: flex;
+  background-color:rgb(240, 49, 31);
+  justify-content:start;
+  height: 300px;
+  width: 300px;
+
+} .main1{
+ display: inline-block;
+ background-color:  rgb(34, 34, 232);
+ justify-content: center ;
+ height: 500px;
+ width: 300px;
+}
+.main.main3{
+    display: flex;
+    background-color:  rgb(232, 222, 34);
+    justify-content: start;
+    height: 400px;
+    width: 400px;
+   }
+.main .main3{
+    display: flex;
+    background-color:  rgb(34, 232, 67);
+    justify-content: start;
+    height: 200px;
+    width: 200px;
+}   
+.main .main4{
+    display: flex;
+    background-color:  rgb(232, 34, 222);
+    justify-content: start;
+    height: 100px;
+    width: 100px;
+}
+.main .main5{
+    display: flex;
+    background-color:  rgb(21, 152, 222);
+    justify-content: start;
+    height: 230px;
+    width: 230px;
+}
